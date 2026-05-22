@@ -10,7 +10,7 @@
 
 Este projeto apresenta um diagrama simples de arquitetura na AWS.
 
-O usuário acessa a aplicação por meio da internet, que direciona a requisição para uma instância EC2. A EC2 é responsável pelo processamento da aplicação e está conectada a um volume EBS, que garante o armazenamento persistente dos dados.
+O usuário acessa a aplicação por meio da internet, que direciona a requisição para uma instância EC2.   A EC2 é responsável pelo processamento da aplicação e está conectada a um volume EBS, que garante o armazenamento persistente dos dados.
 
 ---
 
@@ -25,3 +25,8 @@ O usuário acessa a aplicação por meio da internet, que direciona a requisiç�
 ##  Objetivo
 
 Demonstrar de forma prática e visual o funcionamento básico de uma arquitetura na AWS utilizando EC2 e EBS.
+
+---
+## Feito por
+
+**Maria Luiza Collaço**
